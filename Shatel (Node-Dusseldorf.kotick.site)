@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：25-03-2023 16:12:21
+# 创建时间：24-03-2023 16:23:25
 # 使用模版：V2RaySE 默认模版
 # 节点数量：1
 ####################################
@@ -21,46 +21,46 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-quranweb12.xyz","type":"vmess","server":"104.19.255.178","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb12.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-Dusseldorf.kotick.site","type":"vmess","server":"172.67.39.93","port":443,"cipher":"auto","uuid":"EB176736-29D0-484E-8464-28547013A162","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Dusseldorf.kotick.site/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -83,7 +83,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-quranweb12.xyz
+      - Node-Dusseldorf.kotick.site
 
 rules:
 # 本地/局域网地址
