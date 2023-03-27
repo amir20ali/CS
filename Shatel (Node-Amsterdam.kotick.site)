@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：25-03-2023 15:11:54
+# 创建时间：27-03-2023 15:11:54
 # 使用模版：V2RaySE 默认模版
 # 节点数量：1
 ####################################
@@ -21,7 +21,7 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-Amsterdam.kotick.site","type":"vmess","server":"104.19.255.178","port":443,"cipher":"auto","uuid":"DDB05F7A-A4A3-4F34-B730-FCC7ACB3B17F","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Amsterdam.kotick.site/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-Amsterdam.kotick.site","type":"vmess","server":"104.17.60.106","port":443,"cipher":"auto","uuid":"DDB05F7A-A4A3-4F34-B730-FCC7ACB3B17F","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Amsterdam.kotick.site/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
