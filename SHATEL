@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：28-03-2023 12:23:47
+# 创建时间：28-03-2023 13:08:14
 # 使用模版：V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：11
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,46 +21,116 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-Amsterdam.v2ray.online","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"A59E320C-BAC6-45E3-8A27-1518610708D0","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Amsterdam.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-cf-topspeedvv2.uk","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cf-topspeedvv2.uk/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-cf-topspeedv5.uk","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cf-topspeedv5.uk/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-cf-topspeedvv3.uk","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cf-topspeedvv3.uk/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-cf-topspeed.uk","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cf-topspeed.uk/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb12.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb12.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb11.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb11.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb10.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb10.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb20.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb20.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-ca-nnc.ilovescp.com","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/ca-nnc.ilovescp.com/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb3.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb3.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quran-audio1.xyz","type":"vmess","server":"104.17.234.19","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quran-audio1.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -83,7 +153,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-Amsterdam.v2ray.online
+      - Node-cf-topspeedvv2.uk
+      - Node-cf-topspeedv5.uk
+      - Node-cf-topspeedvv3.uk
+      - Node-cf-topspeed.uk
+      - Node-quranweb12.xyz
+      - Node-quranweb11.xyz
+      - Node-quranweb10.xyz
+      - Node-quranweb20.xyz
+      - Node-ca-nnc.ilovescp.com
+      - Node-quranweb3.xyz
+      - Node-quran-audio1.xyz
 
 rules:
 # 本地/局域网地址
