@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：29-03-2023 12:13:52
+# 创建时间：31-03-2023 19:34:28
 # 使用模版：V2RaySE 默认模版
 # 节点数量：12
 ####################################
@@ -21,123 +21,123 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-cf-topspeedvv3.uk","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cf-topspeedvv3.uk/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-holyquran15.store","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/holyquran15.store/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb15.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb15.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb10.xyz_1","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb10.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb10.xyz_2","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb10.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb11.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb11.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-holyquran18.store","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/holyquran18.store/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb4.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb4.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb9.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb9.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb19.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb19.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-quranweb7.xyz","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb7.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-holyquran4.store","type":"vmess","server":"162.159.201.105","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/holyquran4.store/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-b.gguu.pp.ua","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"e959bcfa-500d-419a-b71d-e7fa2bf63969","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/b.gguu.pp.ua/123","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-england1.yj2022.ga","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/england1.yj2022.ga/Eynyyo4kJfl2fkJfl2f","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-vjp2.0bad.com","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vjp2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-www.damonhuang.top","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"3b6d199e-c090-4a82-8887-815929ba3aff","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/www.damonhuang.top/damonhuang","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-Lille.v2ray.online","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"A59E320C-BAC6-45E3-8A27-1518610708D0","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Lille.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-nl1.scproxy.top","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/nl1.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-america2.yj2022.ga","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/america2.yj2022.ga/SRhXKZqggNrPMELA525Kw","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-ap.utopub.com","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"a07030f3-a9e8-4e46-8d94-604fd70a8816","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/ap.utopub.com/VQi4poSU/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-136.175.178.176mgmg.xhtk.cc","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"23b3724b-3d90-2074-a5bf-09388a9806b7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/136.175.178.176mgmg.xhtk.cc/veghvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-awkj","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"2c0da31c-026e-48ea-9c5a-9e018ad019bb","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/awkj/filestreamingservice/files/20f813e2-036a-42a8-92e2-a3a55a0b239b","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb29.xyz","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb29.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-quranweb11.xyz","type":"vmess","server":"mtn.ircf.space","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb11.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -160,18 +160,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-cf-topspeedvv3.uk
-      - Node-holyquran15.store
-      - Node-quranweb15.xyz
-      - Node-quranweb10.xyz_1
-      - Node-quranweb10.xyz_2
+      - Node-b.gguu.pp.ua
+      - Node-england1.yj2022.ga
+      - Node-vjp2.0bad.com
+      - Node-www.damonhuang.top
+      - Node-Lille.v2ray.online
+      - Node-nl1.scproxy.top
+      - Node-america2.yj2022.ga
+      - Node-ap.utopub.com
+      - Node-136.175.178.176mgmg.xhtk.cc
+      - Node-awkj
+      - Node-quranweb29.xyz
       - Node-quranweb11.xyz
-      - Node-holyquran18.store
-      - Node-quranweb4.xyz
-      - Node-quranweb9.xyz
-      - Node-quranweb19.xyz
-      - Node-quranweb7.xyz
-      - Node-holyquran4.store
 
 rules:
 # 本地/局域网地址
