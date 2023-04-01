@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：31-03-2023 14:01:55
+# 创建时间：01-04-2023 14:33:49
 # 使用模版：V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：11
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,137 +21,116 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-de1.sharecentrepro.org","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/de1.sharecentrepro.org/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-n1674862959.eaurlmj.cn","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"004b5073-be02-4b99-b730-fae21f5e1a07","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/n1674862959.eaurlmj.cn/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-lv3.sharecentrepro.org","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lv3.sharecentrepro.org/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-uk1.scproxy.top","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/uk1.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"3445bb7a-7dcb-408e-be51-a8912bad94ea","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-Amsterdam.v2ray.online","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"A59E320C-BAC6-45E3-8A27-1518610708D0","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Amsterdam.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-77.v2ray1.xyz_1","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/77.v2ray1.xyz/A2DJOPFT","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-eu6.739256.xyz","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"5775d530-ab7a-455f-d841-82bdca57b9b2","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/eu6.739256.xyz/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-77.v2ray1.xyz_2","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/77.v2ray1.xyz/A2DJOPFT","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-id.artunnel57.host","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"ac22c927-f8c1-43b4-88db-60ec7abbf59a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/id.artunnel57.host/vmess-tls","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-secoundhamrah.appsandhack2.tech","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/secoundhamrah.appsandhack2.tech/dp1.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-d.pgypgykmoljklj.xyz","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/d.pgypgykmoljklj.xyz/mR17oBKzZ7","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-mir.mygugubird.xyz","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"cad2f27c-fa48-4d1a-e060-e55966f3b606","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/mir.mygugubird.xyz/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-fr1-vmess.greenssh.xyz","type":"vmess","server":"104.16.225.234","port":443,"cipher":"auto","uuid":"4e75e69b-eae0-4654-9aa6-0ce45deaa0b8","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/fr1-vmess.greenssh.xyz/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-hk-hytron.ilovescp.com","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/hk-hytron.ilovescp.com/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-vuk2.0bad.com","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vuk2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-vjp2.0bad.com","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vjp2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-petal.ga","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"b744f5cc-eab2-d2cd-f477-76646d17987f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/petal.ga/petalvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-dp3.scproxy.top_1","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/dp3.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-n1674862961.grxlrug.cn","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"f071375d-1175-4838-a145-9ca3f271d28b","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/n1674862961.grxlrug.cn/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-dp3.scproxy.top_2","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/dp3.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-ny1.sharecentrepro.org","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/ny1.sharecentrepro.org/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-dp3.scproxy.top_3","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/dp3.scproxy.top/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"3445bb7a-7dcb-408e-be51-a8912bad94ea","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-jp.lzgsm.tk","type":"vmess","server":"104.21.28.133","port":443,"cipher":"auto","uuid":"c2f89bc3-e151-411c-a2ea-7f3ef63a5408","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/jp.lzgsm.tk/ikidvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -174,20 +153,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-de1.sharecentrepro.org
-      - Node-n1674862959.eaurlmj.cn
-      - Node-lv3.sharecentrepro.org
-      - Node-uk1.scproxy.top
+      - Node-hk-hytron.ilovescp.com
+      - Node-vuk2.0bad.com
+      - Node-vjp2.0bad.com
+      - Node-petal.ga
+      - Node-dp3.scproxy.top_1
+      - Node-n1674862961.grxlrug.cn
+      - Node-dp3.scproxy.top_2
+      - Node-ny1.sharecentrepro.org
+      - Node-dp3.scproxy.top_3
       - Node-domaindemom4xe.eu-ffaqrvbjixds.dopraxrocks.net
-      - Node-Amsterdam.v2ray.online
-      - Node-77.v2ray1.xyz_1
-      - Node-eu6.739256.xyz
-      - Node-77.v2ray1.xyz_2
-      - Node-id.artunnel57.host
-      - Node-secoundhamrah.appsandhack2.tech
-      - Node-d.pgypgykmoljklj.xyz
-      - Node-mir.mygugubird.xyz
-      - Node-fr1-vmess.greenssh.xyz
+      - Node-jp.lzgsm.tk
 
 rules:
 # 本地/局域网地址
