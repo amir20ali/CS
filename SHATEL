@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：13-04-2023 00:23:31
+# 创建时间：13-04-2023 20:58:52
 # 使用模版：V2RaySE 默认模版
 # 节点数量：9
 ####################################
@@ -21,102 +21,102 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-quranweb11.xyz","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/quranweb11.xyz/current_time","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-clash6.ssr-free.xyz_1","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-buyvm.sharecentre.online","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/buyvm.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-vuk2.0bad.com","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vuk2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-lg10.cfcdn1.xyz","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg10.cfcdn1.xyz/A2DJOPFT","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-clash6.ssr-free.xyz_2","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-dallas.starsea.vip","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"10735fe6-6c8f-498b-b22e-8e98a57e033d","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/dallas.starsea.vip/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-Amsterdam.v2ray.online","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"A59E320C-BAC6-45E3-8A27-1518610708D0","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Amsterdam.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-sg-5.0rd.net","type":"vmess","server":"172.65.144.0","port":443,"cipher":"auto","uuid":"b7200fb0-b107-11ed-b233-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/sg-5.0rd.net/uvxrjhi0","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-goodfamily19.site","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"572126f8-5301-83c2-0a26-c30ced3db7c4","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/goodfamily19.site/wmzmvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-lg30.cfcdn3.xyz_1","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg30.cfcdn3.xyz/ray","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-p3.chigua.tk_1","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/p3.chigua.tk/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-p3.chigua.tk_2","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/p3.chigua.tk/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-p3.chigua.tk_3","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/p3.chigua.tk/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-p3.chigua.tk_4","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"ffffffff-ffff-ffff-ffff-ffffffffffff","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/p3.chigua.tk/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-lg1.cfcdn1.xyz","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"fcfaec91-6096-44d8-956c-7868d9e874b1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg1.cfcdn1.xyz/ray","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-lg30.cfcdn3.xyz_2","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg30.cfcdn3.xyz/ray","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-lg30.cfcdn3.xyz_3","type":"vmess","server":"104.17.212.93","port":443,"cipher":"auto","uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg30.cfcdn3.xyz/ray","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -139,15 +139,15 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-quranweb11.xyz
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-dallas.starsea.vip
-      - Node-Amsterdam.v2ray.online
-      - Node-sg-5.0rd.net
+      - Node-goodfamily19.site
+      - Node-lg30.cfcdn3.xyz_1
+      - Node-p3.chigua.tk_1
+      - Node-p3.chigua.tk_2
+      - Node-p3.chigua.tk_3
+      - Node-p3.chigua.tk_4
+      - Node-lg1.cfcdn1.xyz
+      - Node-lg30.cfcdn3.xyz_2
+      - Node-lg30.cfcdn3.xyz_3
 
 rules:
 # 本地/局域网地址
