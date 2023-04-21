@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：21-04-2023 23:27:46
+# 创建时间：21-04-2023 23:35:15
 # 使用模版：V2RaySE 默认模版
-# 节点数量：8
+# 节点数量：24
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,95 +21,207 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-us-2.0rd.net","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"c7cd1c90-dd35-11ed-b332-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/us-2.0rd.net/8ox2gy04","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-USG.fljsm.com","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"e5543efd-5400-3760-9bb6-02767728e888","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/USG.fljsm.com/video","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-rnrn3g.555456.xyz","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"17c6c64e-eb3c-44ae-98f8-d469713f91f1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/rnrn3g.555456.xyz/lpkuvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-de-2.0rd.net","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"fb0613d0-dec3-11ed-b830-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/de-2.0rd.net/2v1x97rl","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-super-bush-be83.walidfree15.workers.dev","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"02DD674F-898E-4835-9958-97670C4CCA71","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/super-bush-be83.walidfree15.workers.dev/speedtest/Amsterdam.kotick.site","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-sweet-boat-18e0.kenzas6788.workers.dev","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"F0259D88-2331-4109-A540-B240DFA251F2","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/sweet-boat-18e0.kenzas6788.workers.dev/speedtest/Amsterdam.kotick.site","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-noisy-rain-d7ca.getfree8.workers.dev","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/noisy-rain-d7ca.getfree8.workers.dev/speedtest/Kansas.kotick.site","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-restless-glitter-c0e4.walidfree7.workers.dev","type":"vmess","server":"sht.ircf.space","port":443,"cipher":"auto","uuid":"795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/restless-glitter-c0e4.walidfree7.workers.dev/speedtest/Amsterdam.kotick.site","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-de-v.sshmax.xyz","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/de-v.sshmax.xyz/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-Kansas.v2ray.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"00BBF5B8-173E-6818-9927-5AD1AA073C7D","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Kansas.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-hax-us3.sudoxin.tk","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/hax-us3.sudoxin.tk/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-kh.sharecentre.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/kh.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-clash6.ssr-free.xyz_1","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-buyvm.sharecentre.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/buyvm.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-vuk2.0bad.com","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vuk2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-lg10.cfcdn1.xyz","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg10.cfcdn1.xyz/A2DJOPFT","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-clash6.ssr-free.xyz_2","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-sg-5.0rd.net","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"b7200fb0-b107-11ed-b233-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/sg-5.0rd.net/uvxrjhi0","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-0121136175176168.xhtk.cc","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"286ff9bd-26b8-39c2-d85e-ba20dc1a7e75","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/0121136175176168.xhtk.cc/fkcgvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-us-dp2.sharecentre.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/us-dp2.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-opc-jp.sharecentre.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/opc-jp.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-in-full.privateip.net","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"07722fc6-a688-49fd-9896-fb9e1ca748d6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/in-full.privateip.net/racevpn","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-6ofj69.scvps.my.id","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"f664d429-84f6-47b9-aaa8-39bde191c897","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/6ofj69.scvps.my.id/vmessws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-uk-7.youngns.ml","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"0618e97a-9067-4514-8ebc-5c2963325bbd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/uk-7.youngns.ml/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-dd3.1808.cf","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"05e7d010-52b9-42aa-8a06-daf3e737f279","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/dd3.1808.cf/nguevws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-nl.sharecentre.online","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/nl.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-fullaccesstohongkongnet.azurewebsites.net","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"274f11c6-f69b-40b9-8966-f39e06e97be7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/fullaccesstohongkongnet.azurewebsites.net/ws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-hcm2.safepn.net","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"ee76cecf-1219-42be-ae3f-6b8077e4cacc","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/hcm2.safepn.net/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-fullaccesstokoreannetsubnode1.azurewebsites.net","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"274f11c6-f69b-40b9-8966-f39e06e97be7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/fullaccesstokoreannetsubnode1.azurewebsites.net/ws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-pics.quicklyfast.xyz","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"a0b1fb66-ed41-4077-86a9-a61c143d3777","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/pics.quicklyfast.xyz/a0b1fb66-ed41-4077-86a9-a61c143d3777","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-fr1.trump2023.org","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"2b214122-1906-428a-bbb7-a039cbb7cd5c","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/fr1.trump2023.org/9JZFDTKE","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-juziawsus.nmsl.pics","type":"vmess","server":"mtnx.ircf.space","port":443,"cipher":"auto","uuid":"8608bfb4-7f04-4722-f61b-173288ec9a04","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/juziawsus.nmsl.pics/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -132,14 +244,30 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-us-2.0rd.net
-      - Node-USG.fljsm.com
-      - Node-rnrn3g.555456.xyz
-      - Node-de-2.0rd.net
-      - Node-super-bush-be83.walidfree15.workers.dev
-      - Node-sweet-boat-18e0.kenzas6788.workers.dev
-      - Node-noisy-rain-d7ca.getfree8.workers.dev
-      - Node-restless-glitter-c0e4.walidfree7.workers.dev
+      - Node-de-v.sshmax.xyz
+      - Node-Kansas.v2ray.online
+      - Node-hax-us3.sudoxin.tk
+      - Node-kh.sharecentre.online
+      - Node-clash6.ssr-free.xyz_1
+      - Node-buyvm.sharecentre.online
+      - Node-vuk2.0bad.com
+      - Node-lg10.cfcdn1.xyz
+      - Node-clash6.ssr-free.xyz_2
+      - Node-sg-5.0rd.net
+      - Node-0121136175176168.xhtk.cc
+      - Node-us-dp2.sharecentre.online
+      - Node-opc-jp.sharecentre.online
+      - Node-in-full.privateip.net
+      - Node-6ofj69.scvps.my.id
+      - Node-uk-7.youngns.ml
+      - Node-dd3.1808.cf
+      - Node-nl.sharecentre.online
+      - Node-fullaccesstohongkongnet.azurewebsites.net
+      - Node-hcm2.safepn.net
+      - Node-fullaccesstokoreannetsubnode1.azurewebsites.net
+      - Node-pics.quicklyfast.xyz
+      - Node-fr1.trump2023.org
+      - Node-juziawsus.nmsl.pics
 
 rules:
 # 本地/局域网地址
