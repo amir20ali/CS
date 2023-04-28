@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：27-04-2023 18:33:50
+# 创建时间：29-04-2023 00:38:32
 # 使用模版：V2RaySE 默认模版
-# 节点数量：14
+# 节点数量：12
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,137 +21,123 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"Node-sr.grensky.sbs","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"97b37ac2-8c30-42d2-f398-81faacc821c3","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/sr.grensky.sbs/speed","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-n1674862929.gofdwgy.cn","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"9052bc7a-ccae-47c8-aafb-f732e7320cfe","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/n1674862929.gofdwgy.cn/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-wwwow.ir","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"84b4d2ac-699b-4ba5-a6b2-adaaa82b667d","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/wwwow.ir/84b4d2ac-699b-4ba5-a6b2-adaaa82b667d-vm","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-ams1.looooooongnet.lol","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"cb19e01e-6832-46c7-92c2-1fb93f09e1a8","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/ams1.looooooongnet.lol/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-136.175.178.176mgmg.xhtk.cc","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"23b3724b-3d90-2074-a5bf-09388a9806b7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/136.175.178.176mgmg.xhtk.cc/veghvws","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-de-v.sshmax.xyz","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/de-v.sshmax.xyz/vmess","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-hax-us3.sudoxin.tk","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"c8e0f808-25d6-4911-833e-50b9f5050ba6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/hax-us3.sudoxin.tk/c8e0f808-25d6-4911-833e-50b9f5050ba6","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-kh.sharecentre.online","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/kh.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-clash6.ssr-free.xyz_1","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-buyvm.sharecentre.online","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"20e92881-5fb4-4b05-bc77-57929476dc69","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/buyvm.sharecentre.online/shirker","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-vuk2.0bad.com","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"927094d3-d678-4763-8591-e240d0bcae87","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/vuk2.0bad.com/chat","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-lg10.cfcdn1.xyz","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/lg10.cfcdn1.xyz/A2DJOPFT","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-clash6.ssr-free.xyz_2","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"5f64fa65-7b14-49c5-954d-aa15c6bfcacd","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/clash6.ssr-free.xyz/dongtaiwang.com","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
-  - {"name":"Node-sg-5.0rd.net","type":"vmess","server":"185.238.228.124","port":443,"cipher":"auto","uuid":"b7200fb0-b107-11ed-b233-205c6d5f5d78","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/sg-5.0rd.net/uvxrjhi0","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-Kansas.v2ray.online","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"00BBF5B8-173E-6818-9927-5AD1AA073C7D","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/Kansas.v2ray.online/speedtest","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-www.48816626.xyz","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/www.48816626.xyz/path/120208301422","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-104.17.14.48-4315 | 4.43MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"c002de50-e64e-4328-b98a-fae82bdcafa4","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-104.17.14.48-4315 | 4.43MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-104.18.22.93-6350 | 4.336MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-104.18.22.93-6350 | 4.336MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-104.18.237.21-6314 | 4.336MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-104.18.237.21-6314 | 4.336MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-104.20.166.52-5766 | 4.338MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"02DD674F-898E-4835-9958-97670C4CCA71","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-104.20.166.52-5766 | 4.338MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-104.20.40.186-5625 | 4.335MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"02DD674F-898E-4835-9958-97670C4CCA71","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-104.20.40.186-5625 | 4.335MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-172.67.196.37-1321 | 20.312MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"00ff0579-52ec-474e-bb35-4d639769460e","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-172.67.196.37-1321 | 20.312MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-173.245.58.61-5717 | 4.336MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"795CAC68-4CF8-42D6-BCF6-EDAA8EDCC435","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-173.245.58.61-5717 | 4.336MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-185.238.228.3-5465 | 4.336MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"02DD674F-898E-4835-9958-97670C4CCA71","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-185.238.228.3-5465 | 4.336MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-RELAY-203.23.103.248-6100 | 4.337MB","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"9F858CE1-7E02-4863-AA24-D90F8D3437D7","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/RELAY-203.23.103.248-6100 | 4.337MB/","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
+  - {"name":"Node-cc66.111711.xyz","type":"vmess","server":"198.217.251.235","port":443,"cipher":"auto","uuid":"859b9dd2-23e5-4663-abe9-aca56154a1f4","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"nowrouz.amiralinafea.workers.dev","network":"ws","ws-opts":{"path":"/cc66.111711.xyz/bb","headers":{"host":"nowrouz.amiralinafea.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -174,20 +160,18 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Node-sr.grensky.sbs
-      - Node-n1674862929.gofdwgy.cn
-      - Node-wwwow.ir
-      - Node-ams1.looooooongnet.lol
-      - Node-136.175.178.176mgmg.xhtk.cc
-      - Node-de-v.sshmax.xyz
-      - Node-hax-us3.sudoxin.tk
-      - Node-kh.sharecentre.online
-      - Node-clash6.ssr-free.xyz_1
-      - Node-buyvm.sharecentre.online
-      - Node-vuk2.0bad.com
-      - Node-lg10.cfcdn1.xyz
-      - Node-clash6.ssr-free.xyz_2
-      - Node-sg-5.0rd.net
+      - Node-Kansas.v2ray.online
+      - Node-www.48816626.xyz
+      - Node-RELAY-104.17.14.48-4315 | 4.43MB
+      - Node-RELAY-104.18.22.93-6350 | 4.336MB
+      - Node-RELAY-104.18.237.21-6314 | 4.336MB
+      - Node-RELAY-104.20.166.52-5766 | 4.338MB
+      - Node-RELAY-104.20.40.186-5625 | 4.335MB
+      - Node-RELAY-172.67.196.37-1321 | 20.312MB
+      - Node-RELAY-173.245.58.61-5717 | 4.336MB
+      - Node-RELAY-185.238.228.3-5465 | 4.336MB
+      - Node-RELAY-203.23.103.248-6100 | 4.337MB
+      - Node-cc66.111711.xyz
 
 rules:
 # 本地/局域网地址
