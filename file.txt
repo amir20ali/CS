@@ -1,4 +1,2 @@
-hi
-hi
-this is another test
-line 4
+Hi. Welcome
+شاد، خندان و وخ باشید
