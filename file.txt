@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxOTMuMjI3Ljk5LjgxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6InQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJNeS54amJndGZoamJ2ZHJ5aGZzcmd2amdjcnlndmR0ZzIzLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://b8ce0288-e7c4-482a-be24-364f7d724585@172.64.138.167:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl20.vlessx.us&type=ws&sni=nl20.vlessx.us#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_263
