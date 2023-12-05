@@ -1,1 +1,1 @@
-vless://1223793e-b6f2-4863-ac45-d4c514c4d2a7@104.21.8.177:8443?path=%2F8cf1d0a1cd97259042%3Fed%3D2048&security=tls&encryption=none&host=server1-tls.mitowear.com&type=ws&sni=server1-tls.mitowear.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_131
+vmess://eyJhZGQiOiIxMjkuMTQ2LjQ2LjE4MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhNzk3ZmY3Yi04MTYxLTQwYTYtZDU3Ny0xYjJjMjEzYjM4ODUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyNDA4IiwicHMiOiJAdjJyYXluZ19vcmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
