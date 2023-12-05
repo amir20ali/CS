@@ -1,1 +1,1 @@
-vless://b8ce0288-e7c4-482a-be24-364f7d724585@172.64.138.167:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl20.vlessx.us&type=ws&sni=nl20.vlessx.us#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_263
+vless://1223793e-b6f2-4863-ac45-d4c514c4d2a7@104.21.8.177:8443?path=%2F8cf1d0a1cd97259042%3Fed%3D2048&security=tls&encryption=none&host=server1-tls.mitowear.com&type=ws&sni=server1-tls.mitowear.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_131
