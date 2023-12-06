@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxMjkuMTQ2LjQ2LjE4MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhNzk3ZmY3Yi04MTYxLTQwYTYtZDU3Ny0xYjJjMjEzYjM4ODUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyNDA4IiwicHMiOiJAdjJyYXluZ19vcmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://e832cdc2-0e7b-4d33-8fad-0efc1d0b53f4@104.21.69.44:2053?path=%2F&security=tls&encryption=none&host=saijidweudjismxkcjsdeuwiuds.amoozeshgah-com.com&type=ws&sni=saijidweudjismxkcjsdeuwiuds.amoozeshgah-com.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_29
