@@ -1,1 +1,1 @@
-vless://9fbaa2ab-fe89-444f-aa05-21dd1b3cabb5@104.21.20.152:8443?path=%2Ffree&security=tls&encryption=none&host=freews.kinghooman.sbs&type=ws&sni=freews.kinghooman.sbs#%F0%9F%87%BA%F0%9F%87%B8+US+%E7%BE%8E%E5%9B%BD+41
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVjV2NEdqTWRLc050OGowYmZUVzZ5@51.159.106.157:6917#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.106.157-0919
