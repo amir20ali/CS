@@ -1,1 +1,1 @@
-😘
+trojan://mJR8UynY3kqfQYg_ps1lhw@104.21.62.76:2053?mode=gun&security=tls&type=grpc&serviceName=lol.aparat.lol&sni=alman.germaanpro.ir#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
