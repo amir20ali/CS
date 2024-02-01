@@ -1,1 +1,1 @@
-trojan://mJR8UynY3kqfQYg_ps1lhw@104.21.62.76:2053?mode=gun&security=tls&type=grpc&serviceName=lol.aparat.lol&sni=alman.germaanpro.ir#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@ss031.wang66.homes:2087?path=%2Fblue&security=tls&encryption=none&host=ss031.wang66.homes&type=ws&sni=ss031.wang66.homes#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_279
